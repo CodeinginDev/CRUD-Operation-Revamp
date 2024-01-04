@@ -17,7 +17,7 @@ const data = [{
     invoiceDate: "19/12/2014",
     invoiceDueDate: "3/23/2015",
     status: "Pending",
-    amount: "$2013343",
+    amount: "$20133432222222222222",
 },
 ]
 
